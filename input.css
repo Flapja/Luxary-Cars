@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  @apply opacity-50 translate-y-20;
+}
+
+.change {
+  @apply opacity-100 translate-y-0;
+}
